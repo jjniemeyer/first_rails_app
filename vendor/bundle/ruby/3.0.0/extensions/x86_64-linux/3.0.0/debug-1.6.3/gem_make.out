@@ -1,0 +1,16 @@
+current directory: /home/pants/Dev/first_rails_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+/usr/bin/ruby -I /usr/lib/ruby/3.0.0 extconf.rb
+creating Makefile
+
+current directory: /home/pants/Dev/first_rails_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221106-24190-b236a0 sitelibdir\=./.gem.20221106-24190-b236a0 clean
+
+current directory: /home/pants/Dev/first_rails_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221106-24190-b236a0 sitelibdir\=./.gem.20221106-24190-b236a0
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/pants/Dev/first_rails_app/vendor/bundle/ruby/3.0.0/gems/debug-1.6.3/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20221106-24190-b236a0 sitelibdir\=./.gem.20221106-24190-b236a0 install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20221106-24190-b236a0/debug
